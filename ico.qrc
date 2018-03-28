@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>D:/AG安全团队2017年工具包/Files/Tray98.ico</file>
+    </qresource>
+</RCC>

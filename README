@@ -1,0 +1,7 @@
+AES RC4 等 还有各种混合
+基于QT 
+调用OpenSSL库
+OpenSSL下载
+http://gnuwin32.sourceforge.net/packages/openssl.htm
+http://slproweb.com/products/Win32OpenSSL.html
+http://dl.pconline.com.cn/download/355862.html
