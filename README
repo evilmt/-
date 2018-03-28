@@ -1,5 +1,5 @@
 AES RC4 等 还有各种混合
-基于QT 
+基于QT C++
 调用OpenSSL库
 OpenSSL下载
 http://gnuwin32.sourceforge.net/packages/openssl.htm
